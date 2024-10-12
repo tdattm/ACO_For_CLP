@@ -9,4 +9,5 @@
 
 - **Lưu ý:**
     1. Để nội dung chi tiết và hình ảnh phong phú, ta nên lấy ảnh minh họa ở nhiều bài báo khác nhau (3 bài báo nằm trong phần References và có thể là ở các bài báo khác).
-    2. Chèn ảnh phải nhớ đánh số (ví dụ: Fig 1, Fig 2,...) và ghi nguồn phía dưới ảnh.
+    2. Chèn ảnh phải nhớ đánh số (ví dụ: `Fig 1`, `Fig 2`,...) và ghi nguồn phía dưới ảnh.
+    3. Nếu tải ảnh lên phải bỏ vào `ACO_For_CLP/Assets` và đặt tên theo mẫu tương tự các ảnh đã được upload (ví dụ: `IntroForCLP_FirstPic.png`, `HUS_MIM_Logo.jpg`,...)
